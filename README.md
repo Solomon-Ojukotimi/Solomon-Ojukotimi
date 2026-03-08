@@ -55,3 +55,5 @@ When I’m not digging into spreadsheets, I’m usually doing the exact same thi
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+## See Below For Some of My projects 👇
