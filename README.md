@@ -1,16 +1,15 @@
 ## Hi there, I'm [Solomon Ojukotimi] 👋
 
-<div align="center">
+<p align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Operational+Reporting;Analyzing+500%2B+Monthly+Field+Reports;Data+Cleaning+%7C+Trend+Analysis+%7C+Dashboards;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Operational+Reporting;Data+Cleaning+%7C+Trend+Analysis+%7C+Dashboards;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="[https://www.linkedin.com/in/solomon-ojukotimi/]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:solomonojukotimi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+  <a href="mailto:solomonojukotimi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"> 
 
 ## 🚀 About Me 
 I’m a data analyst who actually enjoys the "messy" phase of a project. There’s something incredibly satisfying about taking a chaotic dataset and finding the story hidden inside.
@@ -18,7 +17,8 @@ With a foundation in data science, I focus on building tools—like practical da
 
 When I’m not digging into spreadsheets, I’m usually doing the exact same thing with football. I love breaking down the strategy and performance data behind the game; to me, whether it’s business or sports, it’s all about finding the patterns that others might miss.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://solomonojukotimi.carrd.co/])
+
+### [🏆 Check Out My Full Portfolio Website](https://solomonojukotimi.carrd.co/)
       
 ## 🔭 What I'm Currently Working On 
 
